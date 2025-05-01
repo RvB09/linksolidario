@@ -1,5 +1,7 @@
 # Link Solidário
-UNITINS TADS (Polo Xambioá) - SEMINÁRIO INTEGRADOR 3º PERÍODO - Sistema de Troca e Doação de Produtos Comunitários: Link Solidário 
+UNITINS TADS (Polo Xambioá)
+SEMINÁRIO INTEGRADOR 3º PERÍODO
+Sistema de Troca e Doação de Produtos Comunitários: Link Solidário 
 
 DESCRIÇÃO GERAL 
 Desenvolver um sistema web para facilitar a troca e/ou doação de produtos em comunidades de cidades do interior do Tocantins. O sistema deverá promover a economia colaborativa e o reaproveitamento de bens como roupas, móveis, eletrodomésticos e materiais escolares. 
